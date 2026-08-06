@@ -15,9 +15,9 @@ BaseURL: https://sub2api.fastai.run
 
 ✅ 2026-08-07
 
-Key: sk-6341afbdf7d6edec031ac639259b5892a994e78986fde7ddd82a07de17c3a8c9
+Key 1: sk-6341afbdf7d6edec031ac639259b5892a994e78986fde7ddd82a07de17c3a8c9
 
-Number of accounts: 37
+Key 2: sk-47e9af32ad49be64b3298062183b0d8dacee435e53aa3b000d5905c5282fb5c2
 
 ---
 
@@ -26,20 +26,12 @@ Number of accounts: 37
 
 Key 1: sk-c01f6e47fbb05f4cb8b38b5fa9227a0298418801998859661ea60d371872c23c
 
-Number of accounts: 5
-
 Key 2: sk-3182d530f35544f5716e890bfe957aa683ff664bd87cdea0a3c1275e58655514
 
-Number of accounts: 10
-
-Key 3: sk-f42d50120484eebdaceeb2fe4f92c4a40db283540b9bb8a022c8777607aab3aa ❌
-
-Number of accounts: 8 (Restricted)
+Key 3: sk-f42d50120484eebdaceeb2fe4f92c4a40db283540b9bb8a022c8777607aab3aa
 
 ---
 
 ✅ 2026-08-05
 
 Key: sk-b319b2bb45769d5dd37303b5a0425ebfe74d9d11168a183944c872dc83e75054
-
-Number of accounts: 6
