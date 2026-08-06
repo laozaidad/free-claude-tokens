@@ -28,13 +28,13 @@ Key 1: sk-c01f6e47fbb05f4cb8b38b5fa9227a0298418801998859661ea60d371872c23c
 
 Number of accounts: 5
 
-Key 2: sk-f42d50120484eebdaceeb2fe4f92c4a40db283540b9bb8a022c8777607aab3aa
-
-Number of accounts: 8
-
-Key 3: sk-3182d530f35544f5716e890bfe957aa683ff664bd87cdea0a3c1275e58655514
+Key 2: sk-3182d530f35544f5716e890bfe957aa683ff664bd87cdea0a3c1275e58655514
 
 Number of accounts: 10
+
+Key 3: sk-f42d50120484eebdaceeb2fe4f92c4a40db283540b9bb8a022c8777607aab3aa ❌
+
+Number of accounts: 8 (Restricted)
 
 ---
 
