@@ -43,7 +43,7 @@
 
 ### 08/12/2026
 
-✅ Key 1: sk-02d23db2f8c3e6c14f4fcd021edabf27c8fbaa4414f9d8f0141cc58e8845b700
+<del>❌ Key 1: sk-02d23db2f8c3e6c14f4fcd021edabf27c8fbaa4414f9d8f0141cc58e8845b700 (Quota Exhausted)</del>
 
 ### 08/11/2026
 
