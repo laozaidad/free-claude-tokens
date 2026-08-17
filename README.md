@@ -41,11 +41,19 @@
 
 ## Get an API Key
 
+### 08/17/2026
+
+none
+
+### 08/14/2026
+
+none
+
 ### 08/13/2026
 
-✅ Key 1: sk-7ca00f04767b98356b300a37b1bd3c9917df20f0c714dde03968134cd1a177f7
+<del>❌ Key 1: sk-7ca00f04767b98356b300a37b1bd3c9917df20f0c714dde03968134cd1a177f7 (Quota Exhausted)</del>
 
-✅ Key 2: sk-3444cffb10f1ee813b23b0fdb406b4406b7e901fd538a9f97d703cf85646e26f
+<del>❌ Key 2: sk-3444cffb10f1ee813b23b0fdb406b4406b7e901fd538a9f97d703cf85646e26f (Quota Exhausted)</del>
 
 ### 08/12/2026
 
