@@ -18,7 +18,7 @@
 | --- | --- |
 | **Available time** | 09:00–18:00 (UTC+8) Business day |
 | **Base URL** | `https://sub2api.fastai.run` |
-| **Daily quota** | Up to **$3,000 per day**, shared across all users |
+| **Daily quota** | Up to **$1,000 per day**, shared across all users |
 
 > Availability is not guaranteed. Keys may expire, reach their quota, or be replaced without notice.
 
@@ -27,7 +27,9 @@
 <details open>
 <summary><strong>View supported models</strong></summary>
 
+- `claude-fable-5-1`
 - `claude-fable-5`
+- `claude-opus-5-5`
 - `claude-opus-5`
 - `claude-opus-4-8`
 - `claude-opus-4-7`
@@ -41,57 +43,33 @@
 
 ## Get an API Key
 
-### 08/19/2026
+### 09/2026
 
-Lottery
+### 08/2026
 
-### 08/18/2026
+<del>❌ Key 12: sk-7ca00f04767b98356b300a37b1bd3c9917df20f0c714dde03968134cd1a177f7 (Quota Exhausted)</del>
 
-none
+<del>❌ Key 11: sk-3444cffb10f1ee813b23b0fdb406b4406b7e901fd538a9f97d703cf85646e26f (Quota Exhausted)</del>
 
-### 08/17/2026
+<del>❌ Key 10: sk-02d23db2f8c3e6c14f4fcd021edabf27c8fbaa4414f9d8f0141cc58e8845b700 (Quota Exhausted)</del>
 
-none
+<del>❌ Key 9: sk-b8036972268e0567961414a697019d5d70e311d351883d9996ffe87941a2450d (Quota Exhausted)</del>
 
-### 08/14/2026
+<del>❌ Key 8: sk-3bca868b88157c9bc5cc6178b029e5548f2fe0daceaaf08ffe9582f862e01fe0 (Quota Exhausted)</del>
 
-none
+<del>❌ Key 7: sk-05a167388c430763aa9129c83d42781bca3dc33d8c2dc446273ead28e6eac2bd (Quota Exhausted)</del>
 
-### 08/13/2026
+<del>❌ Key 6: sk-a20b729bbc2fb4f1bc729a6ac72932b0c9db67d1a0823307b7fbbdf1de4c0bbb (Quota Exhausted)</del>
 
-<del>❌ Key 1: sk-7ca00f04767b98356b300a37b1bd3c9917df20f0c714dde03968134cd1a177f7 (Quota Exhausted)</del>
+<del>❌ Key 5: sk-d1a4c06f68b01dcc97ff4adc6497795a444e7e305d5e95b8e7e099ad523a4dc1 (Quota Exhausted)</del>
 
-<del>❌ Key 2: sk-3444cffb10f1ee813b23b0fdb406b4406b7e901fd538a9f97d703cf85646e26f (Quota Exhausted)</del>
+<del>❌ Key 4: sk-2cc021dc0d99e8b08cc0a6afe572ca475aeb0b5de038ac78b09c57a8d2d1e00f (Quota Exhausted)</del>
 
-### 08/12/2026
-
-<del>❌ Key 1: sk-02d23db2f8c3e6c14f4fcd021edabf27c8fbaa4414f9d8f0141cc58e8845b700 (Quota Exhausted)</del>
-
-### 08/11/2026
-
-<del>❌ Key 1: sk-b8036972268e0567961414a697019d5d70e311d351883d9996ffe87941a2450d (Quota Exhausted)</del>
-
-<del>❌ Key 2: sk-3bca868b88157c9bc5cc6178b029e5548f2fe0daceaaf08ffe9582f862e01fe0 (Quota Exhausted)</del>
-
-### 08/10/2026
-
-<del>❌ Key 1: sk-05a167388c430763aa9129c83d42781bca3dc33d8c2dc446273ead28e6eac2bd (Quota Exhausted)</del>
-
-<del>❌ Key 2: sk-a20b729bbc2fb4f1bc729a6ac72932b0c9db67d1a0823307b7fbbdf1de4c0bbb (Quota Exhausted)</del>
-
-### 08/07/2026
-
-<del>❌ Key 1: sk-d1a4c06f68b01dcc97ff4adc6497795a444e7e305d5e95b8e7e099ad523a4dc1 (Quota Exhausted)</del>
-
-<del>❌ Key 2: sk-2cc021dc0d99e8b08cc0a6afe572ca475aeb0b5de038ac78b09c57a8d2d1e00f (Quota Exhausted)</del>
-
-### 08/06/2026
-
-<del>❌ Key 1: sk-6341afbdf7d6edec031ac639259b5892a994e78986fde7ddd82a07de17c3a8c9</del>
+<del>❌ Key 3: sk-6341afbdf7d6edec031ac639259b5892a994e78986fde7ddd82a07de17c3a8c9</del>
 
 <del>❌ Key 2: sk-47e9af32ad49be64b3298062183b0d8dacee435e53aa3b000d5905c5282fb5c2</del>
 
-<del>❌ Key 3: sk-b319b2bb45769d5dd37303b5a0425ebfe74d9d11168a183944c872dc83e75054</del>
+<del>❌ Key 1: sk-b319b2bb45769d5dd37303b5a0425ebfe74d9d11168a183944c872dc83e75054</del>
 
 
 
@@ -108,27 +86,20 @@ none
 <h2 align="center">Sponsor</h2>
 
 <p align="center">
-  <a href="https://www.recycleai.vip/">
+  <a href="https://thinkapi.org/">
     <img
-      src="https://www.recycleai.vip/oss/aihubx/2026/05/19/9d5134faaf124a45b02a29cb1ae5eb0c.png"
-      alt="RecycleAI"
+      src="https://thinkapi.org/favicon.svg"
+      alt="ThinkAPI"
       width="200"
     />
   </a>
 </p>
 
 <p align="center">
-  Thanks to <a href="https://www.recycleai.vip/"><strong>RecycleAI</strong></a>
+  Thanks to <a href="https://thinkapi.org/"><strong>ThinkAPI</strong></a>
   for supporting this project.
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/QQ_Group-234375007-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white"
-    alt="RecycleAI QQ Group: 234375007"
-  />
-</p>
-
-<p align="center">
-  Join the sponsor's QQ group: <strong>234375007</strong>
+  <a href="https://thinkapi.org/contact">Contact</a>
 </p>
